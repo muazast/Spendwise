@@ -1,0 +1,145 @@
+========================================
+             SPENDWISE
+     SMART STUDENT BUDGET ANALYZER
+========================================
+
+Enter your monthly budget: 5000
+
+Budget successfully set to Rs. 5000
+
+----------------------------------------
+             ADD EXPENSE
+----------------------------------------
+
+Enter expense name: College Transport
+Enter expense amount: 800
+
+Select expense category:
+1. Essentials
+2. Entertainment
+3. Learning
+
+Enter category choice: 1
+
+Expense added successfully!
+
+Total Spent: Rs. 800
+Remaining Budget: Rs. 4200
+
+----------------------------------------
+Add another expense? (Y/N): Y
+
+----------------------------------------
+             ADD EXPENSE
+----------------------------------------
+
+Enter expense name: Online Course
+Enter expense amount: 1200
+
+Select expense category:
+1. Essentials
+2. Entertainment
+3. Learning
+
+Enter category choice: 3
+
+Expense added successfully!
+
+Total Spent: Rs. 2000
+Remaining Budget: Rs. 3000
+
+----------------------------------------
+Add another expense? (Y/N): Y
+
+----------------------------------------
+             ADD EXPENSE
+----------------------------------------
+
+Enter expense name: Movie
+Enter expense amount: 450
+
+Select expense category:
+1. Essentials
+2. Entertainment
+3. Learning
+
+Enter category choice: 2
+
+Expense added successfully!
+
+Total Spent: Rs. 2450
+Remaining Budget: Rs. 2550
+
+----------------------------------------
+Add another expense? (Y/N): Y
+
+----------------------------------------
+             ADD EXPENSE
+----------------------------------------
+
+Enter expense name: Groceries
+Enter expense amount: 1500
+
+Select expense category:
+1. Essentials
+2. Entertainment
+3. Learning
+
+Enter category choice: 1
+
+Expense added successfully!
+
+WARNING: You have used 75% or more
+of your monthly budget!
+
+Total Spent: Rs. 3950
+Remaining Budget: Rs. 1050
+
+----------------------------------------
+Add another expense? (Y/N): N
+
+========================================
+           MONTHLY REPORT
+========================================
+
+Monthly Budget       : Rs. 5000
+Total Expenses       : 4
+Total Amount Spent   : Rs. 3950
+Remaining Budget     : Rs. 1050
+
+----------------------------------------
+         CATEGORY-WISE SPENDING
+----------------------------------------
+
+Essentials           : Rs. 2300
+Entertainment        : Rs. 450
+Learning             : Rs. 1200
+
+----------------------------------------
+          SPENDING INSIGHTS
+----------------------------------------
+
+Highest Expense      : Groceries
+Highest Amount       : Rs. 1500
+
+Budget Utilized      : 79%
+
+Status               : WITHIN BUDGET (CAUTION)
+
+----------------------------------------
+       SMART BUDGET HEALTH CHECK
+----------------------------------------
+
+Essentials share     : 46% (limit 50%)
+Entertainment share  : 9% (limit 30%)
+Learning share       : 24% (goal 10%+)
+
+Health Score         : 85/100
+Rating               : EXCELLENT - Smart Saver
+
+Advice:
+- You used over 75% of your budget. Leave a bigger safety cushion.
+
+========================================
+     THANK YOU FOR USING SPENDWISE!
+========================================
